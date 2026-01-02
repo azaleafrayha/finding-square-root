@@ -42,3 +42,5 @@ How about something even more complex? In this case I want to find the square ro
 Enter your number to find the square root: 189.45
 The square root of 189.45 is approximately 13.764083696853774
 ```
+
+* **NOTE!** The output shows high decimal precision because the algorithm prioritizes accuracy based on a 1e-7 tolerance level. It's math in its rawest form :)
